@@ -1,5 +1,17 @@
 # 💫 About Me:
-# Hello, world! 👋<br><br>I'm a Front End Developer with over 3 years of experience in the industry. I'm passionate about coding, constantly learning, and always up for a new challenge. 🚀<br><br><br><br>- 🌐 I've been living in the vibrant city of Berlin, Germany for the last three years.<br>- 🎓 Currently, I'm expanding my skill set by learning React.js.<br>- 🎯 I'm actively seeking opportunities to collaborate with a new company where I can contribute my knowledge and gain more experience.<br>- 📚 In my free time, I enjoy reading books, traveling, and photography.<br><br>Feel free to reach out to me if you have any opportunities or if you want to chat about tech! 😊<br>
+Hello, world! 👋<br><br>
+I'm a **Full-Stack Cloud Developer** with over **5 years of experience** building and deploying **cloud-native SaaS platforms** across web and mobile. I specialize in **both front-end and back-end development**, combining modern UI frameworks with scalable backend solutions. 🚀<br><br>
+
+- 🌐 I’ve been living in the vibrant city of **Berlin, Germany** for the past few years.  
+- 🧠 Tech stack includes **React**, **React Native**, **Node.js**, **Express.js**, **.NET**, and **Django**.  
+- ☁️ I deploy secure, scalable apps on **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.  
+- 🔁 I’m experienced in **CI/CD automation** (GitHub Actions, Jenkins) and **Docker-based DevOps** workflows.  
+- 🤝 I thrive in **agile environments**, love collaborating cross-functionally, and focus on **clean architecture**.  
+- 🌍 Fluent in **English**, speak **C1-level German**, and open to **remote or hybrid roles** across Europe.  
+- 📸 Outside of work, I enjoy **photography**, **traveling**, and deep conversations about life and tech.  
+
+Feel free to reach out if you're hiring, collaborating, or just want to geek out over cloud architecture! 😊<br>
+
 
 
 ## 🌐 Socials:
