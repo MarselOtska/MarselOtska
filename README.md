@@ -1,16 +1,21 @@
-# 💫 About Me:
-Hello, world! 👋<br><br>
-I'm a **Full-Stack Cloud Developer** with over **5 years of experience** building and deploying **cloud-native SaaS platforms** across web and mobile. I specialize in **both front-end and back-end development**, combining modern UI frameworks with scalable backend solutions. 🚀<br><br>
+# 💫 About Me
 
-- 🌐 I’ve been living in the vibrant city of **Berlin, Germany** for the past few years.  
-- 🧠 Tech stack includes **React**, **React Native**, **Node.js**, **Express.js**, **.NET**, and **Django**.  
-- ☁️ I deploy secure, scalable apps on **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.  
-- 🔁 I’m experienced in **CI/CD automation** (GitHub Actions, Jenkins) and **Docker-based DevOps** workflows.  
-- 🤝 I thrive in **agile environments**, love collaborating cross-functionally, and focus on **clean architecture**.  
-- 🌍 Fluent in **English**, speak **C1-level German**, and open to **remote or hybrid roles** across Europe.  
-- 📸 Outside of work, I enjoy **photography**, **traveling**, and deep conversations about life and tech.  
+Hello, world! 👋
 
-Feel free to reach out if you're hiring, collaborating, or just want to geek out over cloud architecture! 😊<br>
+I'm a **Senior Full-Stack Engineer** with **6+ years of experience** designing and scaling **cloud-native SaaS platforms** across healthcare, security, and enterprise domains — with a focus on **backend architecture, system design, and engineering leadership**. 🚀
+
+- 🏙️ Based in **Berlin, Germany** — fully productive in German-speaking teams (C1), available **immediately** for senior remote or hybrid roles across **Germany, Switzerland, Austria, and the Netherlands**
+- 🧠 Backend stack: **.NET Core**, **NestJS**, **Node.js**, **Kafka**, **RabbitMQ**, **Kubernetes** — microservices, event-driven architecture, CQRS/DDD patterns
+- 💻 Frontend & mobile: **React**, **Next.js**, **TypeScript**, **TanStack Query**, **React Native**, **Jetpack Compose** — with a focus on performance, accessibility, and clean design systems
+- ☁️ Cloud: **AWS**, **GCP**, **Azure** — GDPR-compliant, highly available, zero-downtime systems at scale
+- 🤖 AI integration: **OpenAI API**, **LangChain** — agentic AI workflows in production environments
+- 🔁 CI/CD, **Docker**, **GitHub Actions**, observability with **Sentry** and **Grafana**
+- 🤝 Engineering leadership — mentored engineers to promotion, led cross-functional teams in regulated EU environments
+- 📸 Outside of work: **photography**, **traveling**, and deep conversations about architecture and life
+
+Feel free to reach out if you're hiring, collaborating, or just want to geek out over distributed systems! 😊
+
+📧 marselotska@gmail.com &nbsp;|&nbsp; 📞 +49 174 2547939
 
 
 
