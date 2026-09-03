@@ -1,38 +1,98 @@
-# 💫 About Me
+<div align="center">
 
-Hello, world! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=200&section=header&text=Hi%20There!%20I'm%20Marsel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Engineer;Cloud-Native+SaaS+%40+Scale;Backend+Architecture+%26+System+Design;Based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA+%7C+Open+to+DACH+%2B+NL" />
+</a>
+
+</div>
+
+<br/>
+
+## 💫 About Me
 
 I'm a **Senior Full-Stack Engineer** with **6+ years of experience** designing and scaling **cloud-native SaaS platforms** across healthcare, security, and enterprise domains — with a focus on **backend architecture, system design, and engineering leadership**. 🚀
 
-- 🏙️ Based in **Berlin, Germany** — fully productive in German-speaking teams (C1), available **immediately** for senior remote or hybrid roles across **Germany, Switzerland, Austria, and the Netherlands**
-- 🧠 Backend stack: **.NET Core**, **NestJS**, **Node.js**, **Kafka**, **RabbitMQ**, **Kubernetes** — microservices, event-driven architecture, CQRS/DDD patterns
-- 💻 Frontend & mobile: **React**, **Next.js**, **TypeScript**, **TanStack Query**, **React Native**, **Jetpack Compose** — with a focus on performance, accessibility, and clean design systems
-- ☁️ Cloud: **AWS**, **GCP**, **Azure** — GDPR-compliant, highly available, zero-downtime systems at scale
-- 🤖 AI integration: **OpenAI API**, **LangChain** — agentic AI workflows in production environments
-- 🔁 CI/CD, **Docker**, **GitHub Actions**, observability with **Sentry** and **Grafana**
+- 🏙️ Based in **Berlin, Germany** — fully productive in German-speaking teams (C1)
+- 🟢 Available **immediately** for senior remote or hybrid roles across **Germany, Switzerland, Austria, and the Netherlands**
+- 🧠 Backend: microservices, event-driven architecture, CQRS/DDD patterns
+- 💻 Frontend & mobile: performance, accessibility, and clean design systems
+- ☁️ Cloud: GDPR-compliant, highly available, zero-downtime systems at scale
+- 🤖 AI integration: agentic AI workflows in production environments
 - 🤝 Engineering leadership — mentored engineers to promotion, led cross-functional teams in regulated EU environments
-- 📸 Outside of work: **photography**, **traveling**, and deep conversations about architecture and life
+- 📸 Outside of work: photography, traveling, and deep conversations about architecture and life
 
 Feel free to reach out if you're hiring, collaborating, or just want to geek out over distributed systems! 😊
 
-📧 marselotska@gmail.com &nbsp;|&nbsp; 📞 +49 174 2547939
+**📧 marselotska@gmail.com&nbsp; &nbsp;📞 +49 174 2547939**
 
+<br/>
 
+## 🌐 Connect With Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/marselotska//) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Marsel Otska) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https:[//codepen.io/Marsel Otska](https://codepen.io/your-work)) 
+<p align="left">
+<a href="https://www.linkedin.com/in/marselotska/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@marselotska" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://codepen.io/marselotska" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Marsel Otska&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Marsel Otska&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsel Otska&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🧰 Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=Marsel Otska&icon=0&color=0)](https://visitcount.itsvg.in)
+**Backend**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,express" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,grafana,git,github" />
+
+**Data & Messaging**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="48" />
+
+**AI**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+
+**Design & Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,vscode,postman" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marselotska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marselotska&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marselotska&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=marselotska&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<br/>
+
+<p align="center">
+✍️ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=marselotska&icon=0&color=8" />
+</p>
+
+<p align="center"><sub>Proudly crafted with GPRM (<a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a>)</sub></p>
