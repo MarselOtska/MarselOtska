@@ -73,27 +73,17 @@ Feel free to reach out if you're hiring, collaborating, or just want to geek out
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marselotska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marselotska&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=marselotska&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=marselotska&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<br/>
-
-<p align="center">
+<img src="https://img.shields.io/github/followers/marselotska?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/Contributions-2%2C500%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Total contributions" />
 <img src="https://img.shields.io/badge/Commits%20this%20year-1%2C200%2B-informational?style=for-the-badge&logo=git&logoColor=white" alt="Commits this year" />
 </p>
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=marselotska&icon=0&color=8" />
+<img src="https://komarev.com/ghpvc/?username=marselotska&label=Profile%20Views&color=00C7B7&style=for-the-badge" />
 </p>
 
 <p align="center"><sub>Proudly crafted with GPRM (<a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a>)</sub></p>
