@@ -73,12 +73,12 @@ Feel free to reach out if you're hiring, collaborating, or just want to geek out
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marselotska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marselotska&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marselotska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marselotska&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marselotska&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=marselotska&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -88,7 +88,8 @@ Feel free to reach out if you're hiring, collaborating, or just want to geek out
 <br/>
 
 <p align="center">
-✍️ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://img.shields.io/badge/Contributions-2%2C500%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Total contributions" />
+<img src="https://img.shields.io/badge/Commits%20this%20year-1%2C200%2B-informational?style=for-the-badge&logo=git&logoColor=white" alt="Commits this year" />
 </p>
 
 <p align="center">
