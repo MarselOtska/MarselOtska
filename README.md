@@ -1,89 +1,26 @@
-<div align="center">
+# Marsel Otska · Senior Full-Stack Engineer
 
-<a href="mailto:marselotska@gmail.com"><img src="./assets/hero.svg" width="100%" alt="Marsel Otska — Thoughtful products. Reliable foundations." /></a>
+**React · TypeScript · Node.js · NestJS · C# / .NET · AWS**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7168AA&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Engineer;Cloud-Native+SaaS+%40+Scale;Backend+Architecture+%26+System+Design;Based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA+%7C+Open+to+DACH+%2B+NL" />
-</a>
+I build software for teams that need to act on live data. At Siemens, that meant getting equipment readings onto an operator’s dashboard. In healthcare, it meant connecting a clinical assistant’s streaming interface to the services behind it. I have 6+ years of software engineering experience across industrial, healthcare and security products.
 
-</div>
+**Available immediately** for senior full-stack, backend, frontend and cloud engineering roles. Open to remote or hybrid opportunities in Germany, Austria, Switzerland, the Netherlands, Sweden and Greece.  
+**Languages:** German (C1), English (C1), Greek (native).  
+[Email me](mailto:marselotska@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marselotska/)
 
-<br/>
+## Selected engineering work
 
-## 💫 About Me
+- **Siemens · Industrial monitoring.** Connected equipment data from MQTT and OPC UA to React dashboards through WebSockets. Built backend integrations in .NET Core, FastAPI and Go, and deployed application services on AWS.
+- **TMA Telemedical Application · Healthcare software.** Led a five-person team delivering a healthcare platform across three EU countries. Built the clinical assistant’s streaming UI and its OpenAI and LangChain integration. Used Kafka and RabbitMQ for asynchronous backend workflows.
+- **Li-T Security · Deployment automation.** Automated releases with GitHub Actions and Jenkins, cutting deployment cycles from hours to under 15 minutes. Deployed NestJS and .NET services on Kubernetes and used Kafka for audit logging.
 
-I'm a **Senior Full-Stack Engineer** with **6+ years of experience** designing and scaling **cloud-native SaaS platforms** across healthcare, security, and enterprise domains — with a focus on **backend architecture, system design, and engineering leadership**. 🚀
+## Engineering skills
 
-- 🏙️ Based in **Berlin, Germany** — fully productive in German-speaking teams (C1)
-- 🟢 Available **immediately** for senior remote or hybrid roles across **Germany, Switzerland, Austria, and the Netherlands**
-- 🧠 Backend: microservices, event-driven architecture, CQRS/DDD patterns
-- 💻 Frontend & mobile: performance, accessibility, and clean design systems
-- ☁️ Cloud: GDPR-compliant, highly available, zero-downtime systems at scale
-- 🤖 AI integration: agentic AI workflows in production environments
-- 🤝 Engineering leadership — mentored engineers to promotion, led cross-functional teams in regulated EU environments
-- 📸 Outside of work: photography, traveling, and deep conversations about architecture and life
+| Area | Hands-on experience |
+| --- | --- |
+| Frontend and mobile | React, Next.js, TypeScript, TanStack Query, Storybook, React Native, accessibility and web performance |
+| Backend and data | Node.js, NestJS, C# / .NET, REST, GraphQL, PostgreSQL, Redis, Kafka and RabbitMQ |
+| Cloud and DevOps | AWS Lambda, CloudFront, Docker, Kubernetes on AWS and Azure, GitHub Actions, Jenkins and CI/CD |
+| Production monitoring | Grafana, Prometheus and Sentry for metrics, incident investigation and application errors |
 
-Feel free to reach out if you're hiring, collaborating, or just want to geek out over distributed systems! 😊
-
-**📧 marselotska@gmail.com&nbsp; &nbsp;📞 +49 174 2547939**
-
-<br/>
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/marselotska/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7168AA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@marselotska" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://codepen.io/marselotska" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-</p>
-
-<br/>
-
-## 🧰 Tech Stack
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,express&theme=light&perline=8" />
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind&theme=light&perline=8" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,grafana,git,github&theme=light&perline=8" />
-
-**Data & Messaging**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=light&perline=8" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="48" />
-
-**AI**
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
-
-**Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,vscode,postman&theme=light&perline=8" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=marselotska&hide_border=true&background=F3F1ED&ring=7168AA&fire=7168AA&currStreakNum=242D35&sideNums=242D35&currStreakLabel=7168AA&sideLabels=242D35&dates=687168&stroke=DDD8E7" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/marselotska?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/Contributions-2%2C500%2B-success?style=for-the-badge&logo=github&logoColor=white" alt="Total contributions" />
-<img src="https://img.shields.io/badge/Commits%20this%20year-1%2C200%2B-informational?style=for-the-badge&logo=git&logoColor=white" alt="Commits this year" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=marselotska&label=Profile%20Views&color=7168AA&style=for-the-badge" />
-</p>
-
-<p align="center"><sub>Proudly crafted with GPRM (<a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a>)</sub></p>
+Outside work, I enjoy photography and experimenting with interfaces. [CodePen](https://codepen.io/marselotska) · [Medium](https://medium.com/@marselotska)
